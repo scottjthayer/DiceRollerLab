@@ -1,0 +1,14 @@
+A:\Microsoft Visual Studio\SOURCE\repository\Casino Dice Roller Lab\bin\Debug\netcoreapp3.1\Casino Dice Roller Lab.exe
+A:\Microsoft Visual Studio\SOURCE\repository\Casino Dice Roller Lab\bin\Debug\netcoreapp3.1\Casino Dice Roller Lab.deps.json
+A:\Microsoft Visual Studio\SOURCE\repository\Casino Dice Roller Lab\bin\Debug\netcoreapp3.1\Casino Dice Roller Lab.runtimeconfig.json
+A:\Microsoft Visual Studio\SOURCE\repository\Casino Dice Roller Lab\bin\Debug\netcoreapp3.1\Casino Dice Roller Lab.runtimeconfig.dev.json
+A:\Microsoft Visual Studio\SOURCE\repository\Casino Dice Roller Lab\bin\Debug\netcoreapp3.1\Casino Dice Roller Lab.dll
+A:\Microsoft Visual Studio\SOURCE\repository\Casino Dice Roller Lab\bin\Debug\netcoreapp3.1\Casino Dice Roller Lab.pdb
+A:\Microsoft Visual Studio\SOURCE\repository\Casino Dice Roller Lab\obj\Debug\netcoreapp3.1\Casino Dice Roller Lab.csproj.AssemblyReference.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Casino Dice Roller Lab\obj\Debug\netcoreapp3.1\Casino Dice Roller Lab.GeneratedMSBuildEditorConfig.editorconfig
+A:\Microsoft Visual Studio\SOURCE\repository\Casino Dice Roller Lab\obj\Debug\netcoreapp3.1\Casino Dice Roller Lab.AssemblyInfoInputs.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Casino Dice Roller Lab\obj\Debug\netcoreapp3.1\Casino Dice Roller Lab.AssemblyInfo.cs
+A:\Microsoft Visual Studio\SOURCE\repository\Casino Dice Roller Lab\obj\Debug\netcoreapp3.1\Casino Dice Roller Lab.csproj.CoreCompileInputs.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Casino Dice Roller Lab\obj\Debug\netcoreapp3.1\Casino Dice Roller Lab.dll
+A:\Microsoft Visual Studio\SOURCE\repository\Casino Dice Roller Lab\obj\Debug\netcoreapp3.1\Casino Dice Roller Lab.pdb
+A:\Microsoft Visual Studio\SOURCE\repository\Casino Dice Roller Lab\obj\Debug\netcoreapp3.1\Casino Dice Roller Lab.genruntimeconfig.cache

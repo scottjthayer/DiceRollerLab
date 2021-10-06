@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Casino Dice Roller Lab/1.0.0": {
+        "runtime": {
+          "Casino Dice Roller Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Casino Dice Roller Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
